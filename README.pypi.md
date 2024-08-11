@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ajndkr/lanarky/main/assets/logo-light-mode.png#gh-light-mode-only" alt="lanarky-logo-light-mode" width="500">
-<img src="https://raw.githubusercontent.com/ajndkr/lanarky/main/assets/logo-dark-mode.png#gh-dark-mode-only" alt="lanarky-logo-dark-mode" width="500">
 
 <h4>The web framework for building LLM microservices.</h4>
 
@@ -77,8 +76,6 @@ Contributions are more than welcome! If you have an idea for a new feature or wa
 please create an issue or submit a pull request on [GitHub](https://github.com/ajndkr/lanarky).
 
 See [CONTRIBUTING.md](https://github.com/ajndkr/lanarky/blob/main/CONTRIBUTING.md) for more information.
-
-See [Lanarky Roadmap](https://github.com/users/ajndkr/projects/6) for the list of new features and future milestones.
 
 ## License
 
